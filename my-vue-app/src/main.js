@@ -13,6 +13,7 @@ import { createPinia } from 'pinia';
 // axios.defaults.baseURL = 'http://127.0.0.1:9099/'
 // Vue.prototype.$http = axios
 //zuuf
+//fjfj
 
 const app = createApp(App);
 
