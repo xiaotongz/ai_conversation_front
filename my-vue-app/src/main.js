@@ -12,6 +12,7 @@ import { createPinia } from 'pinia';
 // 配置请求的跟路径
 // axios.defaults.baseURL = 'http://127.0.0.1:9099/'
 // Vue.prototype.$http = axios
+//zuuf
 
 const app = createApp(App);
 
